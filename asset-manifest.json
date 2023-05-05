@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/PruebaFront/static/js/main.5cc16b08.js",
+    "static/js/787.8e31233d.chunk.js": "/PruebaFront/static/js/787.8e31233d.chunk.js",
+    "index.html": "/PruebaFront/index.html",
+    "main.5cc16b08.js.map": "/PruebaFront/static/js/main.5cc16b08.js.map",
+    "787.8e31233d.chunk.js.map": "/PruebaFront/static/js/787.8e31233d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5cc16b08.js"
+  ]
+}
